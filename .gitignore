@@ -1,0 +1,9 @@
+venv/
+secret/
+**secret**
+BOOK/
+EXTRA/
+TESINE/
+STUFF/
+*.pptx
+*.pyc
