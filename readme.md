@@ -10,3 +10,5 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 * [Intro Pandas](./DSM_CODE/intro-numpy-pandas-matplotlib/2_pandas/intro_pandas.ipynb)  (~4 ore)
 * [Intro Matplotlib](./DSM_CODE/intro-numpy-pandas-matplotlib/3_matplotlib/intro_matplotlib.ipynb)  (~4 ore)
 * [Intro Azienda Piusi](./SLIDES/ERP-PIUSI%20COMPANY%20PROFILE.pdf), [Intro ERP](./SLIDES/ERP-MODELLO%20A%205%20DIMENSIONI.pdf) 
+* [Linear Models](./SLIDES/Linear_Models.pdf)
+* [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
