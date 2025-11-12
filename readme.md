@@ -14,3 +14,5 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
 * [Linear Models](./SLIDES/Linear_Models.pdf)
 * [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
+* [Neural Network](./SLIDES/Neural_Networks.pdf)
+* [Neural Network Code 1](./DSM_CODE/neural1)  (~4 ore)
