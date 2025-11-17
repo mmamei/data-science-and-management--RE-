@@ -4,6 +4,9 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 
 * [Introduzione](./SLIDES/00%20-%20Introduction.pdf)
 * [Intro Data Science and Management](./SLIDES/01%20–%20Data%20Science%20and%20Management.pdf) (~3 ore)
+
+* [Project Example](./esempi_tesine/)
+
 * [Intro Python](./DSM_CODE/intro-numpy-pandas-matplotlib/0_python/read_python.ipynb)
 * [Virtual Environment + GIT](./SLIDES/03%20-%20Virtual%20Environment%20+%20GIT.pdf) 
 * [Intro Numpy](./DSM_CODE/intro-numpy-pandas-matplotlib/1_numpy/intro_numpy.ipynb) (~4 ore)
@@ -14,5 +17,16 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 * [Decision Trees Code](./DSM_CODE/decision-trees/) (~4 ore)
 * [Linear Models](./SLIDES/Linear_Models.pdf)
 * [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
+  
 * [Neural Network](./SLIDES/Neural_Networks.pdf)
 * [Neural Network Code 1](./DSM_CODE/neural1)  (~4 ore)
+* [Neural Network Code 2](./) (~4 ore)
+* [Convolutional NN and Images](./) (~4 ore)
+* [Regression and Timeseries](./) (~4 ore)
+* [LSTM](./) (~4 ore)
+  
+* [Unsupervised Learning](./) (~4 ore)
+* [Autoencoders](./) (~4 ore) 
+* 
+* [Data Minining and Association Rules](./) (~4 ore) 
+* [Research Topics and Thesis Proposals](./) (~2 ore) 
