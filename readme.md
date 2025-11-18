@@ -19,14 +19,15 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 * [Linear Models Code](./DSM_CODE/linear-classifier/)  (~4 ore)
   
 * [Neural Network](./SLIDES/Neural_Networks.pdf)
-* [Neural Network Code 1](./DSM_CODE/neural1)  (~4 ore)
-* [Neural Network Code 2](./) (~4 ore)
-* [Convolutional NN and Images](./) (~4 ore)
-* [Regression and Timeseries](./) (~4 ore)
-* [LSTM](./) (~4 ore)
+* [Neural Network Code 1](./DSM_CODE/neural)  (~4 ore)
+* [Neural Network Code 2](./DSM_CODE/neural) (~4 ore)
+* [Convolutional NN and Images](./DSM_CODE/neural) (~4 ore)
+* [Regression and Timeseries](./DSM_CODE/neural) (~4 ore)
   
 * [Unsupervised Learning](./) (~4 ore)
 * [Autoencoders](./) (~4 ore) 
-* 
+
+* [Recurrent NN and LSTM](./DSM_CODE/neural) (~4 ore)
+
 * [Data Minining and Association Rules](./) (~4 ore) 
 * [Research Topics and Thesis Proposals](./) (~2 ore) 
