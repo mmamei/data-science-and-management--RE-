@@ -22,7 +22,7 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 * [Neural Network Code 1](./DSM_CODE/neural)  (~4 ore)
 * [Neural Network Code 2](./DSM_CODE/neural) (~4 ore)
 * [Convolutional NN and Images](./DSM_CODE/neural) (~4 ore)
-* [Regression and Timeseries](./DSM_CODE/neural) (~4 ore)
+* [Regression and Timeseries](./DSM_CODE/timeseries/) (~4 ore)
   
 * [Unsupervised Learning](./) (~4 ore)
 * [Autoencoders](./) (~4 ore) 
