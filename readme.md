@@ -29,8 +29,8 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
   
 * [Unsupervised Learning](./SLIDES/Unsupervised_Learning.pdf) 
 * [Unsupervised Learning Code](./DSM_CODE/clustering1/) (~4 ore) 
+* [Unsupervised Learning Code](./DSM_CODE/neural/) (~4 ore) 
 
 * [Recurrent NN and LSTM](./DSM_CODE/neural) (~4 ore)
 
-* [Data Minining and Association Rules](./) (~4 ore) 
-* [Research Topics and Thesis Proposals](./) (~2 ore) 
+* [Research Topics and Thesis Proposals](./) (~4 ore) 
