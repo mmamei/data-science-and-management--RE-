@@ -33,6 +33,7 @@ Questo è il materiale didattico per il corso di Data Science and Management di 
 
 * [Recurrent NN and LSTM](./DSM_CODE/neural) (~4 ore)
 * [LSTM Tutorial](https://www.youtube.com/watch?v=YCzL96nL7j0)
+  
 * [Transformer Tutorial](https://www.youtube.com/watch?v=bCz4OMemCcA)
 
 * [Research Topics and Thesis Proposals](./) (~4 ore) 
